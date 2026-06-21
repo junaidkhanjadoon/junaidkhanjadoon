@@ -17,7 +17,7 @@ I'm a **Senior Android Developer** with hands-on experience building production-
 - 📱 Specialized in **Kotlin-first** Android development
 - 🏗️ Strong advocate of **Clean Architecture**, **MVVM**, and **SOLID principles**
 - 🚀 Building with **Jetpack Compose**, **Coroutines**, **Hilt**, and the full Jetpack suite
-- 🧠 Always exploring AI integrations in mobile — see [Chat AI App](https://github.com/junaidkhanjadoon/Chat-Ai-App)
+- 🧠 Always exploring AI integrations in mobile
 
 ---
 
