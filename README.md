@@ -18,8 +18,10 @@ Senior Android Developer with **5+ years of experience** building secure, scalab
 - 🩺 Built **MedAi** from scratch to production — a privacy-first medical AI platform for physicians with live transcription (Whisper/AWS) and RAG-powered clinical support
 - 🚚 Delivered key features across the **Expedite logistics ecosystem** — real-time tracking, geofencing, and an in-app AI support agent
 - 🏗️ Strong focus on **Clean Architecture**, **MVVM**, code quality, and long-term maintainability
-- 🔐 Experience architecting **HIPAA/GDPR-aligned** data access with row-level security and immutable audit trails
-- 🧠 Hands-on with **AI integrations in mobile**: live transcription, RAG pipelines, and LLM collaboration
+- 📱 Worked on **100+ Android applications** across healthcare, logistics, food ordering, trading, and social networking domains
+- 🚀 Experienced in the **full release cycle** — Play Console release management, CI/CD with GitHub Actions, and automated Play Store deployments
+- 🗺️ Skilled in **real-time & location features** — live tracking, geofencing, Google Maps, and Socket.IO-powered updates
+- 🤖 Hands-on with **ML Kit, CameraX, biometric auth, Firebase (FCM, Analytics, Crashlytics)**, and deep linking
 
 ---
 
@@ -43,6 +45,17 @@ Senior Android Developer with **5+ years of experience** building secure, scalab
 ![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat-square)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git%20%2F%20GitHub%20%2F%20Bitbucket-F05032?style=flat-square&logo=git&logoColor=white)
+
+### Android & Google
+![Android SDK](https://img.shields.io/badge/Android%20SDK-3DDC84?style=flat-square&logo=android&logoColor=white)
+![ML Kit](https://img.shields.io/badge/ML%20Kit-4285F4?style=flat-square&logo=google&logoColor=white)
+![CameraX](https://img.shields.io/badge/CameraX-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase%20(FCM%2C%20Analytics%2C%20Crashlytics)-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Google Maps](https://img.shields.io/badge/Google%20Maps%20%26%20Location-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt%20DI-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Navigation](https://img.shields.io/badge/Navigation%20Component-3DDC84?style=flat-square&logo=android&logoColor=white)
+![WorkManager](https://img.shields.io/badge/WorkManager-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Biometric Auth](https://img.shields.io/badge/Biometric%20Auth-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 ### Release & Delivery
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
