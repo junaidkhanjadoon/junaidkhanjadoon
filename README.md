@@ -1,9 +1,10 @@
 
-<h1 align="center">Hi, I'm Junaid Khan 👋</h1>
-<h3 align="center">Senior Android Developer · Kotlin · Java · Jetpack Compose</h3>
+<h1 align="center">Hi, I'm Junaid Khan Jadoon 👋</h1>
+<h3 align="center">Senior Android Developer · Kotlin · Jetpack Compose · Kotlin Multiplatform</h3>
 
 <p align="center">
   <a href="mailto:khan.junaid68614@gmail.com"><img src="https://img.shields.io/badge/Email-khan.junaid68614%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/junaid-khan-b28842198"><img src="https://img.shields.io/badge/LinkedIn-Junaid%20Khan-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/junaidkhanjadoon"><img src="https://img.shields.io/github/followers/junaidkhanjadoon?label=Follow&style=flat-square&logo=github"/></a>
 </p>
 
@@ -11,89 +12,104 @@
 
 ## About Me
 
-I'm a **Senior Android Developer** with hands-on experience building production-grade mobile applications for private sector clients. Most of my professional work lives under client-owned repositories, but the projects here represent my personal explorations in clean architecture, Jetpack Compose, and modern Android engineering.
+Senior Android Developer with **5+ years of experience** building secure, scalable, and high-performance mobile applications — from initial architecture through to production release.
 
-- 🏢 Currently working in the **private sector** delivering Android apps at scale
-- 📱 Specialized in **Kotlin-first** Android development
-- 🏗️ Strong advocate of **Clean Architecture**, **MVVM**, and **SOLID principles**
-- 🚀 Building with **Jetpack Compose**, **Coroutines**, **Hilt**, and the full Jetpack suite
-- 🧠 Always exploring AI integrations in mobile
+- 🏢 Currently **Senior Android Developer at IBTIDAH Solutions**, leading Android development across AI-enabled healthcare and real-time logistics platforms
+- 🩺 Built **MedAi** from scratch to production — a privacy-first medical AI platform for physicians with live transcription (Whisper/AWS) and RAG-powered clinical support
+- 🚚 Delivered key features across the **Expedite logistics ecosystem** — real-time tracking, geofencing, and an in-app AI support agent
+- 🏗️ Strong focus on **Clean Architecture**, **MVVM**, code quality, and long-term maintainability
+- 🔐 Experience architecting **HIPAA/GDPR-aligned** data access with row-level security and immutable audit trails
+- 🧠 Hands-on with **AI integrations in mobile**: live transcription, RAG pipelines, and LLM collaboration
 
 ---
 
 ## Tech Stack
 
-### Languages
+### Languages & UI
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-### Android & Jetpack
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Android SDK](https://img.shields.io/badge/Android%20SDK-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Room](https://img.shields.io/badge/Room-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Hilt](https://img.shields.io/badge/Hilt%20DI-3DDC84?style=flat-square&logo=android&logoColor=white)
-![LiveData](https://img.shields.io/badge/LiveData%20%2F%20Flow-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Navigation](https://img.shields.io/badge/Navigation%20Component-3DDC84?style=flat-square&logo=android&logoColor=white)
+![XML](https://img.shields.io/badge/XML-005FAD?style=flat-square&logo=xml&logoColor=white)
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform%20(KMP)-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform%20(CMP)-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 
-### Architecture & Patterns
+### Architecture & Tooling
 ![MVVM](https://img.shields.io/badge/MVVM-blueviolet?style=flat-square)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-blueviolet?style=flat-square)
-![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-blueviolet?style=flat-square)
-
-### Networking & Storage
+![Koin](https://img.shields.io/badge/Koin-F88909?style=flat-square)
+![Coroutines & Flow](https://img.shields.io/badge/Coroutines%20%26%20Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Room](https://img.shields.io/badge/Room-3DDC84?style=flat-square&logo=android&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-48B983?style=flat-square)
 ![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat-square)
-![OkHttp](https://img.shields.io/badge/OkHttp-48B983?style=flat-square)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Git](https://img.shields.io/badge/Git%20%2F%20GitHub%20%2F%20Bitbucket-F05032?style=flat-square&logo=git&logoColor=white)
 
-### Tools
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
-
----
-
-## Featured Projects
-
-### 🍽️ [Compose Search Recipe](https://github.com/junaidkhanjadoon/Compose-Search-Recipe)
-Recipe search app built with **Jetpack Compose**, **Retrofit**, **MVVM**, and **Hilt DI** consuming the MealDB open API.  
-`Kotlin` · `Jetpack Compose` · `Retrofit` · `MVVM` · `Hilt`
+### Release & Delivery
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Play Console](https://img.shields.io/badge/Play%20Console%20Release%20Management-3DDC84?style=flat-square&logo=googleplay&logoColor=white)
+![Real-Time Tracking](https://img.shields.io/badge/Real--Time%20Tracking-0A66C2?style=flat-square)
+![Geofencing](https://img.shields.io/badge/Geofencing-0A66C2?style=flat-square)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
 
 ---
 
-### 🤖 [Chat AI App](https://github.com/junaidkhanjadoon/Chat-Ai-App)
-AI-powered chat application for Android — exploring LLM integration in mobile.  
-`Kotlin` · `Android`
+## Work Experience
+
+### 💼 Senior Android Developer — IBTIDAH Solutions <sub>*(Feb 2025 – Present)*</sub>
+Leading Android development across **MedAi** and the **Expedite ecosystem** — AI-powered live transcription (Whisper/AWS), RAG pipelines for grounded differential diagnoses, HIPAA/GDPR-aligned architecture, real-time order tracking, automated geofencing, and a high-visibility operations dashboard for logistics teams.
+
+### 💼 Android Developer — LEADConcept <sub>*(Mar 2022 – Feb 2025)*</sub>
+Developed and maintained Android apps in **Kotlin, Java, XML, and Jetpack Compose** across multiple client-facing products — owning features end-to-end from network integrations and UI to architecture, testing, and performance optimization. Shipped production apps in search & browsing, food ordering, sales intelligence, trading, and social networking.
+
+### 💼 Jr. Android Developer — TechNDevs <sub>*(Aug 2021 – Mar 2022)*</sub>
+Contributed to Android development in **Java and Kotlin**, with hands-on feature implementation, UI delivery, debugging, and cross-device compatibility work.
 
 ---
 
-### 🏗️ [Clean Architecture Template](https://github.com/junaidkhanjadoon/clean-architecture-template)
-A reusable Android project template structured with **Clean Architecture** layers (data / domain / presentation) — my go-to starting point for new projects.  
-`Kotlin` · `Clean Architecture` · `MVVM`
+## Professional Projects
+
+> 🔒 These are production apps built for clients/employers — source lives in private repositories.
+
+| Project | Description |
+|---|---|
+| 🩺 **MedAi** | Privacy-first medical AI platform for physicians — real-time consultation transcription, RAG-powered clinical support, and compliance-focused architecture with secure auditability. |
+| 🚚 **Expedite Ecosystem** | Logistics platform (Driver + Brands apps) — real-time order tracking, PTI workflows, automated geofencing, in-app AI support agent, and high-volume route operations visibility. |
+| 🔍 **Luxxle** | Android search & browsing app — fast search, visual search, bookmarks, history/tab management, plus image, video, news, maps, and translation support. |
+| 🍽️ **DinDin – Local Restaurants** | Restaurant discovery and food ordering — nearby places, menus, reviews, filters, and smooth order placement. |
+| 📊 **LiquorTX – Bar Sales Data** | Sales intelligence for Texas bars & restaurants — business search, historical sales and product-mix data with rich filtering. |
+| 💱 **Topswap** | Kotlin-based trading platform for game credits and digital assets — offers, secure purchasing, transaction tracking. |
+| 🌐 **LNQ** | Java-based social networking app — nearby discovery, map-based interaction, friends, feed, and direct messaging. |
+| 🛵 **Delivero (IBDelivery)** | Real-time delivery driver app (Kotlin, Koin, Retrofit, Socket.IO) — live order state machine, location tracking, and GitHub Actions CI/CD for automated Play Store releases. |
+| 🍔 **BiteSwift** | Customer-facing food ordering app (Jetpack Compose, Koin) integrated with the Delivero driver ecosystem with real-time tracking. |
 
 ---
 
-### 🛒 [E-Commerce Admin](https://github.com/junaidkhanjadoon/E-ComerceAdmin)
-Admin panel Android app for managing an e-commerce platform.  
-`Kotlin` · `Android`
+## Independent Projects
+
+### 📄 ScanAnyDoc
+Independently built document scanning app — **Jetpack Compose, Material 3, Koin** — with ML Kit-powered edge detection, offline OCR, biometric lock, and PDF export. Built end-to-end for Play Store release.
+`Kotlin` · `Jetpack Compose` · `Material 3` · `ML Kit` · `Koin`
+
+### 🧰 [DailyToolkit.app](https://dailytoolkit.app)
+Independently designed, built, and shipped **40+ free online utility tools** — Next.js, React, Tailwind CSS, shadcn/ui — deployed on Vercel.
+`Next.js` · `React` · `Tailwind CSS` · `shadcn/ui` · `Vercel`
 
 ---
 
-### 📰 [News App](https://github.com/junaidkhanjadoon/NewsApp)
-News aggregator using **NewsAPI**, **Retrofit**, and **MVVM** to display categorized news feeds.  
-`Java` · `Retrofit` · `MVVM` · `RecyclerView`
+## Open Source & Samples
+
+- 🍽️ [Compose Search Recipe](https://github.com/junaidkhanjadoon/Compose-Search-Recipe) — Recipe search with **Jetpack Compose, Retrofit, MVVM, Hilt** (MealDB API)
+- 🤖 [Chat AI App](https://github.com/junaidkhanjadoon/Chat-Ai-App) — Exploring LLM integration in mobile
+- 🏗️ [Clean Architecture Template](https://github.com/junaidkhanjadoon/clean-architecture-template) — Reusable data/domain/presentation project template
+- 📰 [News App](https://github.com/junaidkhanjadoon/NewsApp) — News aggregator with NewsAPI, Retrofit, MVVM
+- ✅ [TODO Notes App](https://github.com/junaidkhanjadoon/TODONotesAppWithMVVM) — MVVM, Room, LiveData
 
 ---
 
-### ✅ [TODO Notes App](https://github.com/junaidkhanjadoon/TODONotesAppWithMVVM)
-Full-featured notes app with **MVVM**, **Room database**, and **LiveData**.  
-`Kotlin` · `Room` · `MVVM` · `LiveData`
+## Education
 
----
-
-### 🧠 [Brain Game Quiz](https://github.com/junaidkhanjadoon/BrainGameQuiz)
-Interactive quiz app using **SQLite** for all data storage with a clean, gamified UI.  
-`Java` · `SQLite` · `Android`
+🎓 **BSCS** — Arid Agriculture University <sub>*(CGPA 3.19/4)*</sub>
 
 ---
 
@@ -106,4 +122,4 @@ Interactive quiz app using **SQLite** for all data storage with a clean, gamifie
 
 ---
 
-> 💡 *Most of my professional work is in private repositories under client accounts. The projects here reflect my personal engineering practice — architecture patterns, tooling, and experiments I return to between client engagements.*
+> 💡 *Most of my professional work lives in private repositories under client accounts. The public projects here reflect my personal engineering practice — architecture patterns, tooling, and experiments.*
