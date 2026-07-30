@@ -35,6 +35,13 @@ I'm currently **open to new freelance and contract engagements** — for startup
 
 Senior Android Developer with **5+ years** shipping production apps end-to-end — architecture, implementation, and release — across healthcare, logistics, and consumer products.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/-5%2B%20Years%20Experience-0D0D0D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-100%2B%20Apps%20Shipped-0D0D0D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-HIPAA%2FGDPR%20Experience-0D0D0D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Full%20Release%20Ownership-0D0D0D?style=for-the-badge"/>
+</p>
+
 - 🏢 Currently **Senior Android Developer at IBTIDAH Solutions**, leading Android development across AI-enabled healthcare and real-time logistics platforms
 - 🩺 Built **MedAi** from scratch to production — a privacy-first medical AI platform for physicians with live transcription (Whisper/AWS) and RAG-powered clinical support
 - 🚚 Delivered key features across the **Expedite logistics ecosystem** — real-time tracking, geofencing, and an in-app AI support agent
@@ -53,27 +60,38 @@ Senior Android Developer with **5+ years** shipping production apps end-to-end �
   <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,git,github,bitbucket,figma,vscode,jira" />
 </p>
 
-**UI & Multiplatform** · Jetpack Compose · XML · Kotlin Multiplatform (KMP) · Compose Multiplatform (CMP)
+![UI & Multiplatform](https://img.shields.io/badge/UI%20%26%20Multiplatform-D4AF37?style=flat-square&logoColor=0D0D0D)
+`Jetpack Compose` `XML` `Kotlin Multiplatform (KMP)` `Compose Multiplatform (CMP)`
 
-**Architecture & Async** · MVVM · Clean Architecture · Coroutines & Flow · Koin DI
+![Architecture & Async](https://img.shields.io/badge/Architecture%20%26%20Async-D4AF37?style=flat-square&logoColor=0D0D0D)
+`MVVM` `Clean Architecture` `Coroutines & Flow` `Koin DI`
 
-**Data & Networking** · Room · Retrofit · RESTful APIs · Socket.IO
+![Data & Networking](https://img.shields.io/badge/Data%20%26%20Networking-D4AF37?style=flat-square&logoColor=0D0D0D)
+`Room` `Retrofit` `RESTful APIs` `Socket.IO`
 
-**Android & Google** · ML Kit · CameraX · Google Maps & Location · Hilt · Navigation Component · WorkManager · Biometric Auth
+![Android & Google](https://img.shields.io/badge/Android%20%26%20Google-D4AF37?style=flat-square&logoColor=0D0D0D)
+`ML Kit` `CameraX` `Google Maps & Location` `Hilt` `Navigation Component` `WorkManager` `Biometric Auth`
 
-**Release & Delivery** · GitHub Actions (CI/CD) · Play Console Release Management · Real-Time Tracking & Geofencing · ClickUp
+![Release & Delivery](https://img.shields.io/badge/Release%20%26%20Delivery-D4AF37?style=flat-square&logoColor=0D0D0D)
+`GitHub Actions (CI/CD)` `Play Console Release Management` `Real-Time Tracking & Geofencing` `ClickUp`
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:D4AF37&height=3&section=header" width="100%"/></p>
 
 ## Work Experience
 
-### 💼 Senior Android Developer — IBTIDAH Solutions <sub>*(Feb 2025 – Present)*</sub>
+### 💼 Senior Android Developer — IBTIDAH Solutions
+![Feb 2025 – Present](https://img.shields.io/badge/Feb%202025%20%E2%80%93%20Present-D4AF37?style=flat-square&logoColor=0D0D0D)
+
 Leading Android development across **MedAi** and the **Expedite ecosystem** — AI-powered live transcription (Whisper/AWS), RAG pipelines for grounded differential diagnoses, HIPAA/GDPR-aligned architecture, real-time order tracking, automated geofencing, and a high-visibility operations dashboard for logistics teams.
 
-### 💼 Android Developer — LEADConcept <sub>*(Mar 2022 – Feb 2025)*</sub>
+### 💼 Android Developer — LEADConcept
+![Mar 2022 – Feb 2025](https://img.shields.io/badge/Mar%202022%20%E2%80%93%20Feb%202025-D4AF37?style=flat-square&logoColor=0D0D0D)
+
 Developed and maintained Android apps in **Kotlin, Java, XML, and Jetpack Compose** across multiple client-facing products — owning features end-to-end from network integrations and UI to architecture, testing, and performance optimization. Shipped production apps in search & browsing, food ordering, sales intelligence, trading, and social networking.
 
-### 💼 Jr. Android Developer — TechNDevs <sub>*(Aug 2021 – Mar 2022)*</sub>
+### 💼 Jr. Android Developer — TechNDevs
+![Aug 2021 – Mar 2022](https://img.shields.io/badge/Aug%202021%20%E2%80%93%20Mar%202022-D4AF37?style=flat-square&logoColor=0D0D0D)
+
 Contributed to Android development in **Java and Kotlin**, with hands-on feature implementation, UI delivery, debugging, and cross-device compatibility work.
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:D4AF37&height=3&section=header" width="100%"/></p>
