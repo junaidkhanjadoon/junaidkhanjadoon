@@ -12,14 +12,15 @@
 
 ## About Me
 
-Senior Android Developer with **5+ years of experience** building secure, scalable, and high-performance mobile applications — from initial architecture through to production release.
+Senior Android Developer with **5+ years** shipping production apps end-to-end — architecture, implementation, and release — across healthcare, logistics, and consumer products.
 
 - 🏢 Currently **Senior Android Developer at IBTIDAH Solutions**, leading Android development across AI-enabled healthcare and real-time logistics platforms
 - 🩺 Built **MedAi** from scratch to production — a privacy-first medical AI platform for physicians with live transcription (Whisper/AWS) and RAG-powered clinical support
 - 🚚 Delivered key features across the **Expedite logistics ecosystem** — real-time tracking, geofencing, and an in-app AI support agent
+- 🧩 Outside client work, solo-designed and built **Gridlock**, an Android puzzle game with a hand-rolled rule engine, a BFS + Zobrist-hashing solver, and a procedural level generator gated by automated difficulty tests
 - 🏗️ Strong focus on **Clean Architecture**, **MVVM**, code quality, and long-term maintainability
-- 📱 Worked on **100+ Android applications** across healthcare, logistics, food ordering, trading, and social networking domains
-- 🚀 Experienced in the **full release cycle** — Play Console release management, CI/CD with GitHub Actions, and automated Play Store deployments
+- 📱 Shipped **100+ Android applications** across healthcare, logistics, food ordering, trading, and social networking domains
+- 🚀 Own the **full release cycle** — Play Console release management, CI/CD with GitHub Actions, and automated Play Store deployments
 - 🗺️ Skilled in **real-time & location features** — live tracking, geofencing, Google Maps, and Socket.IO-powered updates
 - 🤖 Hands-on with **ML Kit, CameraX, biometric auth, Firebase (FCM, Analytics, Crashlytics)**, and deep linking
 
@@ -86,19 +87,28 @@ Contributed to Android development in **Java and Kotlin**, with hands-on feature
 
 | Project | Description |
 |---|---|
-| 🩺 **MedAi** | Privacy-first medical AI platform for physicians — real-time consultation transcription, RAG-powered clinical support, and compliance-focused architecture with secure auditability. |
-| 🚚 **Expedite Ecosystem** | Logistics platform (Driver + Brands apps) — real-time order tracking, PTI workflows, automated geofencing, in-app AI support agent, and high-volume route operations visibility. |
-| 🔍 **Luxxle** | Android search & browsing app — fast search, visual search, bookmarks, history/tab management, plus image, video, news, maps, and translation support. |
-| 🍽️ **DinDin – Local Restaurants** | Restaurant discovery and food ordering — nearby places, menus, reviews, filters, and smooth order placement. |
-| 📊 **LiquorTX – Bar Sales Data** | Sales intelligence for Texas bars & restaurants — business search, historical sales and product-mix data with rich filtering. |
-| 💱 **Topswap** | Kotlin-based trading platform for game credits and digital assets — offers, secure purchasing, transaction tracking. |
-| 🌐 **LNQ** | Java-based social networking app — nearby discovery, map-based interaction, friends, feed, and direct messaging. |
-| 🛵 **Delivero (IBDelivery)** | Real-time delivery driver app (Kotlin, Koin, Retrofit, Socket.IO) — live order state machine, location tracking, and GitHub Actions CI/CD for automated Play Store releases. |
-| 🍔 **BiteSwift** | Customer-facing food ordering app (Jetpack Compose, Koin) integrated with the Delivero driver ecosystem with real-time tracking. |
+| 🩺 **MedAi** | Privacy-first medical AI platform for physicians — real-time consultation transcription, RAG-powered clinical support, compliance-focused architecture with secure auditability. |
+| 🚚 **Expedite Ecosystem** | Logistics platform (Driver + Brands apps) — real-time order tracking, PTI workflows, automated geofencing, in-app AI support agent, high-volume route operations visibility. |
+| 🔍 **Luxxle** | Android search & browsing app — fast and visual search, bookmarks, history/tab management, plus image, video, news, maps, and translation support. |
+| 🍽️ **DinDin – Local Restaurants** | Restaurant discovery and food ordering — nearby places, menus, reviews, filters, smooth order placement. |
+| 📊 **LiquorTX – Bar Sales Data** | Sales intelligence for Texas bars & restaurants — business search with historical sales and product-mix data, rich filtering. |
+| 💱 **Topswap** | Kotlin trading platform for game credits and digital assets — offers, secure purchasing, transaction tracking. |
+| 🌐 **LNQ** | Java social networking app — nearby discovery, map-based interaction, friends, feed, direct messaging. |
+| 🛵 **Delivero (IBDelivery)** | Real-time delivery driver app (Kotlin, Koin, Retrofit, Socket.IO) — live order state machine, location tracking, GitHub Actions CI/CD for automated Play Store releases. |
+| 🍔 **BiteSwift** | Customer-facing food ordering app (Jetpack Compose, Koin) integrated with the Delivero driver ecosystem, real-time tracking. |
 
 ---
 
 ## Independent Projects
+
+### 🧩 Gridlock
+Solo-designed and built Android puzzle game — engine, procedural generator, and full production hardening, entirely outside client work.
+- Custom rule engine modeling non-monotone piece interactions (sliding cars/trucks, timed traffic lights, police countdowns), backed by a **BFS solver with Zobrist hashing** for exact solvability and difficulty scoring
+- Procedural level generator using **mutation-based hill-climbing** against a shaped objective (bot win-rate, dead-end ratio, optimal-move count) — every shipped level is gated by an automated test suite before release
+- **Jetpack Compose** rendering with cached per-piece geometry for smooth animation, plus a ground-up accessibility layer (per-piece semantics, screen-reader descriptions) replacing raw canvas gesture detection
+- Production-hardened: Firebase Crashlytics, startup-failure recovery, Room-backed persistence, 60+ automated tests, full launch-readiness audit across UX/performance/accessibility
+
+`Kotlin` · `Jetpack Compose` · `Room` · `Koin` · `Firebase Crashlytics` · `JUnit`
 
 ### 📄 ScanAnyDoc
 Independently built document scanning app — **Jetpack Compose, Material 3, Koin** — with ML Kit-powered edge detection, offline OCR, biometric lock, and PDF export. Built end-to-end for Play Store release.
