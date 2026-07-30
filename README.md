@@ -5,6 +5,7 @@
 <p align="center">
   <a href="mailto:khan.junaid68614@gmail.com"><img src="https://img.shields.io/badge/Email-khan.junaid68614%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/junaid-khan-b28842198"><img src="https://img.shields.io/badge/LinkedIn-Junaid%20Khan-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://wa.me/923147968614"><img src="https://img.shields.io/badge/WhatsApp-%2B92%20314%207968614-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
   <a href="https://github.com/junaidkhanjadoon"><img src="https://img.shields.io/github/followers/junaidkhanjadoon?label=Follow&style=flat-square&logo=github"/></a>
 </p>
 
@@ -28,43 +29,19 @@ Senior Android Developer with **5+ years** shipping production apps end-to-end �
 
 ## Tech Stack
 
-### Languages & UI
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![XML](https://img.shields.io/badge/XML-005FAD?style=flat-square&logo=xml&logoColor=white)
-![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform%20(KMP)-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform%20(CMP)-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,git,github,bitbucket,figma,vscode,jira" />
+</p>
 
-### Architecture & Tooling
-![MVVM](https://img.shields.io/badge/MVVM-blueviolet?style=flat-square)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-blueviolet?style=flat-square)
-![Koin](https://img.shields.io/badge/Koin-F88909?style=flat-square)
-![Coroutines & Flow](https://img.shields.io/badge/Coroutines%20%26%20Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Room](https://img.shields.io/badge/Room-3DDC84?style=flat-square&logo=android&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-48B983?style=flat-square)
-![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat-square)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Git](https://img.shields.io/badge/Git%20%2F%20GitHub%20%2F%20Bitbucket-F05032?style=flat-square&logo=git&logoColor=white)
+**UI & Multiplatform** · Jetpack Compose · XML · Kotlin Multiplatform (KMP) · Compose Multiplatform (CMP)
 
-### Android & Google
-![Android SDK](https://img.shields.io/badge/Android%20SDK-3DDC84?style=flat-square&logo=android&logoColor=white)
-![ML Kit](https://img.shields.io/badge/ML%20Kit-4285F4?style=flat-square&logo=google&logoColor=white)
-![CameraX](https://img.shields.io/badge/CameraX-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase%20(FCM%2C%20Analytics%2C%20Crashlytics)-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Google Maps](https://img.shields.io/badge/Google%20Maps%20%26%20Location-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
-![Hilt](https://img.shields.io/badge/Hilt%20DI-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Navigation](https://img.shields.io/badge/Navigation%20Component-3DDC84?style=flat-square&logo=android&logoColor=white)
-![WorkManager](https://img.shields.io/badge/WorkManager-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Biometric Auth](https://img.shields.io/badge/Biometric%20Auth-3DDC84?style=flat-square&logo=android&logoColor=white)
+**Architecture & Async** · MVVM · Clean Architecture · Coroutines & Flow · Koin DI
 
-### Release & Delivery
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Play Console](https://img.shields.io/badge/Play%20Console%20Release%20Management-3DDC84?style=flat-square&logo=googleplay&logoColor=white)
-![Real-Time Tracking](https://img.shields.io/badge/Real--Time%20Tracking-0A66C2?style=flat-square)
-![Geofencing](https://img.shields.io/badge/Geofencing-0A66C2?style=flat-square)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
+**Data & Networking** · Room · Retrofit · RESTful APIs · Socket.IO
+
+**Android & Google** · ML Kit · CameraX · Google Maps & Location · Hilt · Navigation Component · WorkManager · Biometric Auth
+
+**Release & Delivery** · GitHub Actions (CI/CD) · Play Console Release Management · Real-Time Tracking & Geofencing · ClickUp
 
 ---
 
