@@ -1,15 +1,35 @@
 
-<h1 align="center">Hi, I'm Junaid Khan Jadoon 👋</h1>
-<h3 align="center">Senior Android Developer · Kotlin · Jetpack Compose · Kotlin Multiplatform</h3>
-
 <p align="center">
-  <a href="mailto:khan.junaid68614@gmail.com"><img src="https://img.shields.io/badge/Email-khan.junaid68614%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/junaid-khan-b28842198"><img src="https://img.shields.io/badge/LinkedIn-Junaid%20Khan-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://wa.me/923147968614"><img src="https://img.shields.io/badge/WhatsApp-%2B92%20314%207968614-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://github.com/junaidkhanjadoon"><img src="https://img.shields.io/github/followers/junaidkhanjadoon?label=Follow&style=flat-square&logo=github"/></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:D4AF37&height=190&section=header&text=Junaid%20Khan%20Jadoon&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Senior%20Android%20Developer%20%C2%B7%20Kotlin%20%C2%B7%20Jetpack%20Compose%20%C2%B7%20Clean%20Architecture&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
 </p>
 
----
+<p align="center"><i>Building production-grade Android experiences for startups and enterprises — from architecture to App Store.</i></p>
+
+<p align="center">
+  <a href="mailto:khan.junaid68614@gmail.com"><img src="https://img.shields.io/badge/-Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=D4AF37"/></a>
+  <a href="https://www.linkedin.com/in/junaid-khan-b28842198"><img src="https://img.shields.io/badge/-LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=D4AF37"/></a>
+  <a href="https://wa.me/923147968614"><img src="https://img.shields.io/badge/-WhatsApp-0D0D0D?style=for-the-badge&logo=whatsapp&logoColor=D4AF37"/></a>
+  <a href="https://github.com/junaidkhanjadoon"><img src="https://img.shields.io/github/followers/junaidkhanjadoon?style=for-the-badge&logo=github&label=Follow&color=0D0D0D&labelColor=0D0D0D&logoColor=D4AF37"/></a>
+</p>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:D4AF37&height=3&section=header" width="100%"/></p>
+
+## 🤝 Available for Freelance & Contract Work
+
+I'm currently **open to new freelance and contract engagements** — for startups, agencies, and enterprises, both in Pakistan and internationally.
+
+- 💼 **Engagement:** fixed-price (milestone-based) or hourly, depending on project scope — clear written scope agreed before any code is written
+- 🌍 **Remote-first**, flexible across time zones for calls and async updates
+- 🔒 **Confidentiality-minded** — comfortable with NDAs; experience shipping compliance-sensitive apps (HIPAA/GDPR-aligned architecture on MedAi)
+- 🚀 **End-to-end delivery** — architecture, implementation, testing, and Play Store release, not just a slice of the codebase
+- 💬 **Direct & responsive** — reach out below to discuss your project
+
+<p align="center">
+  <a href="mailto:khan.junaid68614@gmail.com"><img src="https://img.shields.io/badge/-Start%20a%20Project%20%E2%80%94%20Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=0D0D0D"/></a>
+  <a href="https://wa.me/923147968614"><img src="https://img.shields.io/badge/-Chat%20on%20WhatsApp-D4AF37?style=for-the-badge&logo=whatsapp&logoColor=0D0D0D"/></a>
+</p>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:D4AF37&height=3&section=header" width="100%"/></p>
 
 ## About Me
 
@@ -25,7 +45,7 @@ Senior Android Developer with **5+ years** shipping production apps end-to-end �
 - 🗺️ Skilled in **real-time & location features** — live tracking, geofencing, Google Maps, and Socket.IO-powered updates
 - 🤖 Hands-on with **ML Kit, CameraX, biometric auth, Firebase (FCM, Analytics, Crashlytics)**, and deep linking
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:D4AF37&height=3&section=header" width="100%"/></p>
 
 ## Tech Stack
 
@@ -43,7 +63,7 @@ Senior Android Developer with **5+ years** shipping production apps end-to-end �
 
 **Release & Delivery** · GitHub Actions (CI/CD) · Play Console Release Management · Real-Time Tracking & Geofencing · ClickUp
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:D4AF37&height=3&section=header" width="100%"/></p>
 
 ## Work Experience
 
@@ -56,7 +76,7 @@ Developed and maintained Android apps in **Kotlin, Java, XML, and Jetpack Compos
 ### 💼 Jr. Android Developer — TechNDevs <sub>*(Aug 2021 – Mar 2022)*</sub>
 Contributed to Android development in **Java and Kotlin**, with hands-on feature implementation, UI delivery, debugging, and cross-device compatibility work.
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:D4AF37&height=3&section=header" width="100%"/></p>
 
 ## Professional Projects
 
@@ -74,7 +94,7 @@ Contributed to Android development in **Java and Kotlin**, with hands-on feature
 | 🛵 **Delivero (IBDelivery)** | Real-time delivery driver app (Kotlin, Koin, Retrofit, Socket.IO) — live order state machine, location tracking, GitHub Actions CI/CD for automated Play Store releases. |
 | 🍔 **BiteSwift** | Customer-facing food ordering app (Jetpack Compose, Koin) integrated with the Delivero driver ecosystem, real-time tracking. |
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:D4AF37&height=3&section=header" width="100%"/></p>
 
 ## Independent Projects
 
@@ -95,7 +115,7 @@ Independently built document scanning app — **Jetpack Compose, Material 3, Koi
 Independently designed, built, and shipped **40+ free online utility tools** — Next.js, React, Tailwind CSS, shadcn/ui — deployed on Vercel.
 `Next.js` · `React` · `Tailwind CSS` · `shadcn/ui` · `Vercel`
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:D4AF37&height=3&section=header" width="100%"/></p>
 
 ## Open Source & Samples
 
@@ -105,21 +125,23 @@ Independently designed, built, and shipped **40+ free online utility tools** —
 - 📰 [News App](https://github.com/junaidkhanjadoon/NewsApp) — News aggregator with NewsAPI, Retrofit, MVVM
 - ✅ [TODO Notes App](https://github.com/junaidkhanjadoon/TODONotesAppWithMVVM) — MVVM, Room, LiveData
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:D4AF37&height=3&section=header" width="100%"/></p>
 
 ## Education
 
 🎓 **BSCS** — Arid Agriculture University <sub>*(CGPA 3.19/4)*</sub>
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:D4AF37&height=3&section=header" width="100%"/></p>
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junaidkhanjadoon&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidkhanjadoon&layout=compact&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=junaidkhanjadoon&show_icons=true&hide_border=true&count_private=true&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF&bg_color=0D0D0D" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidkhanjadoon&layout=compact&hide_border=true&title_color=D4AF37&text_color=FFFFFF&bg_color=0D0D0D" height="150"/>
 </p>
 
----
-
 > 💡 *Most of my professional work lives in private repositories under client accounts. The public projects here reflect my personal engineering practice — architecture patterns, tooling, and experiments.*
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:D4AF37&height=100&section=footer" width="100%"/>
+</p>
